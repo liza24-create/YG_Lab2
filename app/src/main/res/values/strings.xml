@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YG_Lab2</string>
+    <string name="chars_selection">Chars</string>
+    <string name="words_selection">Words</string>
+    <string name="sentences_selection">Sentences</string>
+    <string name="numbers_selection">Numbers</string>
+    <string-array name="selection_options">
+        <item>Sentences</item>
+        <item>Words</item>
+        <item>Chars</item>
+        <item>Numbers</item>
+    </string-array>
+</resources>
