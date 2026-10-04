@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">YG_Lab2</string>
-    <string name="chars_selection">Chars</string>
-    <string name="words_selection">Words</string>
-    <string name="sentences_selection">Sentences</string>
-    <string name="numbers_selection">Numbers</string>
+    <string name="chars_selection" translatable="false">Chars</string>
+    <string name="words_selection" translatable="false">Words</string>
+    <string name="sentences_selection" translatable="false">Sentences</string>
+    <string name="numbers_selection" translatable="false">Numbers</string>
+    <string name="please_enter_a_text">Please enter a text</string>
     <string-array name="selection_options">
         <item>Sentences</item>
         <item>Words</item>

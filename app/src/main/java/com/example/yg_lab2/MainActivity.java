@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
             String userInputText = this.edPhrase.getText().toString();
             if(TextUtils.isEmpty(userInputText)){
 
-                Toast.makeText(this, "Please enter a text", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, R.string.please_enter_a_text, Toast.LENGTH_SHORT).show();
 
             }
             else {
