@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         if(selectedOption.equals(defaultCharsSelectedOption)){
             String userInputText = this.edPhrase.getText().toString();
             if(TextUtils.isEmpty(userInputText)){
-                // TODO:
+
                 Toast.makeText(this, "Please enter a text", Toast.LENGTH_SHORT).show();
 
             }
@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         if(selectedOption.equals(defaultWordsSelectedOption)){
             String userInputText = this.edPhrase.getText().toString();
             if(TextUtils.isEmpty(userInputText)){
-                // TODO:
+
                 Toast.makeText(this, "Please enter a text", Toast.LENGTH_SHORT).show();
 
             }
@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
         if(selectedOption.equals(defaultSentencesSelectedOption)){
             String userInputText = this.edPhrase.getText().toString();
             if(TextUtils.isEmpty(userInputText)){
-                // TODO:
+
                 Toast.makeText(this, "Please enter a text", Toast.LENGTH_SHORT).show();
 
             }
@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
         if(selectedOption.equals(defaultNumbersSelectedOption)){
             String userInputText = this.edPhrase.getText().toString();
             if(TextUtils.isEmpty(userInputText)){
-                // TODO:
+
                 Toast.makeText(this, "Please enter a text", Toast.LENGTH_SHORT).show();
 
             }
